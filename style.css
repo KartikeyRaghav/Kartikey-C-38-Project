@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 2px solid black;
+}
+
+.hide{
+  display: none;
+}
+
+.startScreen {
+  cursor: pointer;
+  font-style: italic;
+  font-size: 20px;
+  background-color: black;
+  color: yellow;
+  width: 30px;
+}
+
+.car {
+  width: 50px;
+  height: 70px;
+  background-color: red;
+  position: relative;
+}
